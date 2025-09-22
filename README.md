@@ -4,6 +4,8 @@ This repository contains the hardware design files from my first Master's Thesis
 
 This project has been superseded and continued in my other master's thesis: [Hardware design of a LoRa Gateway and in-orbit computing payload for CubeSat]([https://github.com/dpmj/Bachelor_Thesis_TIK_hardware](https://github.com/dpmj/Master_Thesis_LoRa_Gateway_and_Computing_CubeSat_Payload_hardware)).
 
+Third-party desing elements included in this repository are subject to the copyright of their respective owners.
+
 ```bibtex
 @phdthesis{dpmj-master-thesis-2024,
     author = {{Del Pino Mena}, Juan},
