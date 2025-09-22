@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=lora_comms_sch.MbsDoc|Kind=Multi-board Schematic Module|Designator=MB|Source=..\carrier\carrier.PrjPcb
+Record=SubProject|SourceDocument=lora_comms_sch.MbsDoc|ProjectPath=..\carrier\carrier.PrjPcb
+Record=DiagramHierarchy|SourceDocument=lora_comms_sch.MbsDoc|Kind=Multi-board Schematic Module|Designator=GS|Source=..\egse\egse.PrjPcb
+Record=SubProject|SourceDocument=lora_comms_sch.MbsDoc|ProjectPath=..\egse\egse.PrjPcb
+Record=DiagramHierarchy|SourceDocument=lora_comms_sch.MbsDoc|Kind=Multi-board Schematic Module|Designator=GW1|Source=..\lora_gw_som\lora_gw_som.PrjPcb
+Record=SubProject|SourceDocument=lora_comms_sch.MbsDoc|ProjectPath=..\lora_gw_som\lora_gw_som.PrjPcb
+Record=DiagramHierarchy|SourceDocument=lora_comms_sch.MbsDoc|Kind=Multi-board Schematic Module|Designator=GW0|Source=..\lora_gw_som\lora_gw_som.PrjPcb
+Record=SubProject|SourceDocument=lora_comms_sch.MbsDoc|ProjectPath=..\lora_gw_som\lora_gw_som.PrjPcb

@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=estigia_lora_comms_multiboard.PrjMbd
+[Project2]
+ProjectPath=..\egse\egse.PrjPcb
+[Project3]
+ProjectPath=..\carrier\carrier.PrjPcb
+[Project4]
+ProjectPath=..\test_shield\som_breakout.PrjPcb
+[Project5]
+ProjectPath=..\test_shield_multiboard\som_breakout_mb.PrjMbd
+[Project6]
+ProjectPath=..\..\..\..\Docs\Hardware Designs\SeeedStudio\Imported WM1302 Pi Hat v1.0.PrjPcb\WM1302 Pi Hat v1.0.PrjPcb
+[Project7]
+ProjectPath=..\lora_gw_som\lora_gw_som.PrjPcb
