@@ -17,3 +17,5 @@ This project has been superseded and continued in my other master's thesis: [Har
     doi = {https://doi.org/10.5281/zenodo.13935118}
 }
 ```
+
+![](render.png)
